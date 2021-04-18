@@ -1,5 +1,5 @@
 # BMI-WebApp
-It is a simole web app consits of ionic, react and type-script it hs following fuctionality:
+It is a simole web app consits of ionic, react and type-script it has following fuctionality:
 1. You can calculate your BMI on both feet/lbs and meter/kg metrics.
 1. Reset your inputs.
 1. Responsive Web Apps for Android, IOS.
